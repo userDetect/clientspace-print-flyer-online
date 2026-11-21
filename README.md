@@ -1,13 +1,12 @@
-# Флаер-онлайн · демо ClientSpace
+# Флаер-онлайн · концепт ClientSpace
 
-[Демо](https://userdetect.github.io/clientspace-print-flyer-online/) также можно открыть локально через любой статический HTTP-сервер.
+- [Демо сайта](https://userdetect.github.io/clientspace-print-flyer-online/)
+- [Демо CRM](https://userdetect.github.io/clientspace-print-flyer-online/crm.html)
+- [Действующий сайт](https://flyer-online.ru/)
 
-Форма формирует черновик в браузере. Для приёма заказов понадобится подключить канал доставки заявок.
-
-[Действующий сайт](https://flyer-online.ru/)
-
-## Источники изображений
+Форма и CRM используют IndexedDB. Созданные в демо заявки и файлы хранятся в браузере. Сравнивать форму и CRM нужно в одном браузерном профиле.
 
 - [Печать коробок для подарочных наборов VISARI](https://flyer-online.ru/cases)
 - [Полиграфия для мероприятия](https://flyer-online.ru/cases)
 - [Мемори-карточки из портфолио](https://flyer-online.ru/cases)
+- [Визитки](https://flyer-online.ru/visitki/vizitka)
